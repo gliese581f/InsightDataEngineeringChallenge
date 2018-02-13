@@ -1,2 +1,2 @@
-chmod +x src/stream_donations.py
+chmod +x stream_donations.py
 stream_donations.py
